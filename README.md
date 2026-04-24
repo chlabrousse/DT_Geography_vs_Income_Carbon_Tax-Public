@@ -5,8 +5,8 @@ Also: IA No 117 - Taxing firm emissions or household emissions: effects by incom
 
 
 To reproduce the Working Paper:
-- use R for Steps 1 and 2
-- use Matlab for other Steps
+- use R for Data files
+- use Matlab Model files
 
 Step 1: XXXXX
 
