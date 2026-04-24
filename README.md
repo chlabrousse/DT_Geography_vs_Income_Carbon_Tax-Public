@@ -5,15 +5,27 @@ Also: IA No 117 policy note - Taxing firm emissions or household emissions: effe
 
 To reproduce the Working Paper:
 - use R for Data files
-- use Matlab Model files
+- use Matlab (2025b if possible) for Model files
 
-File "Data Households emissions": 
+File "Data Households emissions": use R
 - Households_BdF_2017.R runs the code from the Working Paper, section 1.1. 
 - Households_BdF_2017_AAV.R runs the from from the policy note (Appendix)
 
-File "Data Firms emissions": 
+File "Data Firms emissions": use R
 - Emissions_firms_cities.R runs the code from the Working Paper, section 1.2.
 - Emissions_firms_UU.R runs a robustness from the Working Paper, section 1.2. using urban units instead of city codes
 - Emissions_firms_AAV.R runs the from from the policy note (Appendix)
 
-File "
+File "Working Paper UU": run the code for the model of the Working Paper, use MATLAB (2025b if possible)
+- Step 1: To run steady states run MAIN2_SS
+- Step 2: To see calibration run Graph1_calibration.m
+- Step 3: To run transitional dynamics, run MAIN3_TRANS (it lasts a few minutes)
+- For additional info, see the README.pdf in the document
+
+
+File "IA AAV": run the code for the model of the policy note, use MATLAB (2025b if possible)
+- Step 1: To run steady states run MAIN2_SS
+- Step 2: To see calibration run Graph1_calibration.m, or run directly MAIN0_Calib.m
+- Step 3: To run transitional dynamics, run MAIN3_TRANS (it lasts a few minutes)
+- For additional info, see the README.pdf in the document
+
