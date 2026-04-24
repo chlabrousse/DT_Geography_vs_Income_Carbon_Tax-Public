@@ -23,14 +23,14 @@ File "Working Paper UU": run the code for the model of the Working Paper, use MA
 - Step 1: To run steady states run MAIN2_SS
 - Step 2: To see calibration run Graph1_calibration.m
 - Step 3: To run transitional dynamics, run MAIN3_TRANS (it lasts a few minutes)
-- For additional info, see the README.pdf in the document
+- For additional info, see the README.pdf in the file
 
 
 File "IA AAV": run the code for the model of the policy note, use MATLAB (2025b if possible)
 - Step 1: To run steady states run MAIN2_SS
 - Step 2: To see calibration run Graph1_calibration.m, or run directly MAIN0_Calib.m
 - Step 3: To run transitional dynamics, run MAIN3_TRANS (it lasts a few minutes)
-- For additional info, see the README.pdf in the document
+- For additional info, see the README.pdf in the file
 
 
 
