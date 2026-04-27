@@ -1,4 +1,4 @@
-# DT_Geography_vs_Income_Carbon_Tax-Public
+# DT_Geography_vs_Income_Carbon_Tax
 
 Working Paper Insee - Geography versus Income: The Heterogeneous Effects of Carbon Taxation (FR: Géographie ou Revenus : les effets distributifs de la taxation carbone)
 Also: IA No 117 policy note - Taxing firm emissions or household emissions: effects by income level and territory (FR: Taxer les émissions des entreprises ou taxer celles des ménages : effets selon les revenus et les territoires)
